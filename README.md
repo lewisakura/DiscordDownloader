@@ -1,0 +1,2 @@
+# DiscordCanary
+Download Discord Canary
