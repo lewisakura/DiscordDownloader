@@ -1,2 +1,2 @@
-# DiscordCanary
-Download Discord Canary
+# DiscordDownloader
+Download Discord Canary, Discord PTB and Discord Stable.
